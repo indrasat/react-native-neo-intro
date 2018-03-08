@@ -1,0 +1,55 @@
+{
+  "_from": "react-native-intro",
+  "_id": "react-native-intro@0.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-LRXfyRgD+/GXtkTLkHnPVGsRi2w=",
+  "_location": "/react-native-intro",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-intro",
+    "name": "react-native-intro",
+    "escapedName": "react-native-intro",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-intro/-/react-native-intro-0.0.2.tgz",
+  "_shasum": "2d15dfc91803fbf197b644cb9079cf546b118b6c",
+  "_spec": "react-native-intro",
+  "_where": "/Users/indrakurniawan/Documents/Proyek/neo/qserved/qserv-dev",
+  "author": {
+    "name": "lyan"
+  },
+  "bugs": {
+    "url": "https://github.com/liuzheng644607/react-native-intro/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "react-native-root-siblings": "^1.1.2"
+  },
+  "deprecated": false,
+  "description": "A way for new feature introduction and step-by-step users guide for your react-native app",
+  "homepage": "https://github.com/liuzheng644607/react-native-intro#readme",
+  "keywords": [
+    "react-native-intro",
+    "intro",
+    "react-native"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-intro",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/liuzheng644607/react-native-intro.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.2"
+}
